@@ -6,7 +6,7 @@ import DisplayNumberRoot from './components/DisplayNumberRoot';
 function App() {
   return (
     <div className="App">
-      <h1>Root</h1>
+      <h1>Roottt</h1>
       <AddNumberRoot></AddNumberRoot>
       <DisplayNumberRoot></DisplayNumberRoot>
     </div>
